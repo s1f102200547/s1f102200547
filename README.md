@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <strong>API-less SaaS Integration Researcher</strong> · <strong>Full-Stack Engineer</strong><br/>
   <sub>INIAD, Toyo University — Tokyo · Graduating March 2027</sub>
 </p>
 
