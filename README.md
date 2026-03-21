@@ -60,6 +60,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4o"/>
   <img src="https://img.shields.io/badge/Claude_API-D4A24E?style=flat-square" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
 
 <p align="center"><strong>Embedded</strong></p>
