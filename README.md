@@ -1,11 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1500&color=E8E8E8&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Halu+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <sub>INIAD, Toyo University — Tokyo · Graduating March 2027</sub>
 </p>
-
 <p align="center">
   <em>"Deliver maximum value to users."</em>
 </p>
@@ -15,15 +13,29 @@
 <h3 align="center">🔬 What I'm Working On</h3>
 
 <p align="center">
-  My graduation research tackles a real gap in enterprise integration:<br/><br/>
-  <strong>How do you synchronize business data across SaaS tools<br/>that have no public API or webhook?</strong>
+  My graduation research tackles a real gap in enterprise integration:
 </p>
 
+<h4 align="center">
+  💡 How do you synchronize business data across SaaS tools<br/>that have no public API or webhook?
+</h4>
+
 <p align="center">
-  I'm building an AI agent framework with three layers —<br/>
-  <strong>Perception → Operation → Normalization</strong><br/>
-  — that reads, acts on, and structures data from web UIs through browser automation.
+  I'm building an <strong>AI agent framework</strong> that reads, acts on, and structures data<br/>
+  from web UIs through browser automation — organized in three layers:
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220"><strong>👁 Perception</strong><br/><sub>Observe & understand<br/>SaaS screen states</sub></td>
+    <td align="center" width="60">→</td>
+    <td align="center" width="220"><strong>⚙️ Operation</strong><br/><sub>Execute actions via<br/>GUI automation</sub></td>
+    <td align="center" width="60">→</td>
+    <td align="center" width="220"><strong>📐 Normalization</strong><br/><sub>Structure & unify data<br/>across services</sub></td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
