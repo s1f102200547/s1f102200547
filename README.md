@@ -10,35 +10,6 @@
 
 ---
 
-<h3 align="center">🔬 What I'm Working On</h3>
-
-<p align="center">
-  My graduation research tackles a real gap in enterprise integration:
-</p>
-
-<h4 align="center">
-  💡 How do you synchronize business data across SaaS tools<br/>that have no public API or webhook?
-</h4>
-
-<p align="center">
-  I'm building an <strong>AI agent framework</strong> that reads, acts on, and structures data<br/>
-  from web UIs through browser automation — organized in three layers:
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="220"><strong>👁 Perception</strong><br/><sub>Observe & understand<br/>SaaS screen states</sub></td>
-    <td align="center" width="60">→</td>
-    <td align="center" width="220"><strong>⚙️ Operation</strong><br/><sub>Execute actions via<br/>GUI automation</sub></td>
-    <td align="center" width="60">→</td>
-    <td align="center" width="220"><strong>📐 Normalization</strong><br/><sub>Structure & unify data<br/>across services</sub></td>
-  </tr>
-</table>
-
-<br/>
-
----
-
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center"><strong>Frontend</strong></p>
@@ -82,13 +53,3 @@
 </p>
 
 ---
-
-<p align="center">
-  I want to build that integration layer at global scale, starting from Asia.
-</p>
-
----
-
-<p align="center">
-  <strong>📍 Tokyo</strong>&ensp;·&ensp;<strong>🌏 Open to global opportunities</strong>
-</p>
